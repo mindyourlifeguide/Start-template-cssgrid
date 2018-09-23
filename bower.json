@@ -1,0 +1,21 @@
+{
+	"name": "code47",
+	"description": "",
+	"main": "main.js",
+	"authors": [
+		"mind.your.life.guide@gmail.com"
+	],
+	"license": "ISC",
+	"homepage": "https://github.com/mindyourlifeguide/code47",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"app/libs/"
+	],
+	"dependencies": {
+		"jquery": "latest",
+		"bootstrap": "latest",
+		"popper.js": "latest"
+	}
+}
